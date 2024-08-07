@@ -20,7 +20,9 @@ The dataset used in this project is sourced from the Gene Expression Omnibus (GE
 
 ### Citation of the Dataset
 
-Lips E, Hoogstraat M. RNAseq gene expression profiles of 87 pre-treatment biopsies of breast cancer patients to study neoadjuvant treatment response. GEO Accession GSE81089.
+Mezheyeuski A, Bergsland CH, Backman M, Djureinovic D et al. Multispectral imaging for quantitative and compartment-specific immune infiltrates reveals distinct immune profiles that classify lung cancer patients. J Pathol 2018 Apr;244(4):421-431. PMID: 29282718
+
+Goldmann T, Marwitz S, Nitschkowski D, Krupar R et al. PD-L1 amplification is associated with an immune cell rich phenotype in squamous cell cancer of the lung. Cancer Immunol Immunother 2021 Sep;70(9):2577-2587. PMID: 33576873
 
 ## Project Structure
 
