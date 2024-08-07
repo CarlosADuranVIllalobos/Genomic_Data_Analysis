@@ -47,6 +47,7 @@ Genomic_Data_Analysis/
 │       ├── heatmap.png                   # Heatmap of gene expression
 │       ├── volcano_plot.png              # Volcano plot of differential expression
 ├── README.md                             # Project README
+```
 ## Usage
 
 ### Data Retrieval and Preprocessing:
